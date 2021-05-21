@@ -1,5 +1,7 @@
 # EmbedUI-App
 
+![GitHub](https://img.shields.io/github/license/EmbedUI/EmbedUI-Library?style=for-the-badge) 
+
 EmbedUI  is an open source Project, for enthusiasts to speed-up & visualize UI development using Embedded Hardware.
 
 EmbedUI makes UI Development simpler & faster for Embedded Devices without the need of any additional display hardware. Utilizes your Laptop/PC Display Screen to generate the required UI for your application.
